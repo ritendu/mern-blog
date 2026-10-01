@@ -1,1 +1,2 @@
-.superpowers/
+video-demo/*
+!video-demo/video-demo.txt
